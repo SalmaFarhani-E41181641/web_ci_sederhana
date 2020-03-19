@@ -9,7 +9,9 @@ class Login extends CI_Controller{
 	}
  
 	function login(){
+		$this->load->view('v_home_header');
 		$this->load->view('v_login');
+		
 	}
 //  membuat function_login untuk meengecek uname dan pass yang akan dirahkan m_login
 	function aksi_login(){

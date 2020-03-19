@@ -20,7 +20,7 @@
       <tr>
 	  	<th>No.</th>
         <th>Nama Sampah</th>
-        <th>Banyaknya</th>
+        <th>Banyaknya (Ton)</th>
         <th>Lokasi</th>
 		<th>Handphone</th>
       </tr>
