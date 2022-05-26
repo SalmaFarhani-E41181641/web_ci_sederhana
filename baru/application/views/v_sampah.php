@@ -5,7 +5,7 @@
       <div class="banner-content text-center">
         <h1>Sampah Anorganik</h1>
         <p>
-		<b>Sampah anorganik</b> ialah sampah yang dihasilkan dari bahan-bahan non hayati baik berupa produk sinterik maupun <br>
+		<b>Sampah anorganik</b> merupakan sebuah sampah yang dihasilkan dari bahan-bahan non hayati baik berupa produk sinterik maupun <br>
 		hasil proses teknologi pengelolahan bahan tambang atau sumber daya alam dan tidak dapat diuraikan oleh alam, <br>
 		Contohnya: botol plastik, tas plastik, kaleng.
         </p>
