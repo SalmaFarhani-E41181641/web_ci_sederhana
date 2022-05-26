@@ -3,7 +3,7 @@
         <div class="overlay overlay-bg"></div>
       <div class="banner-content text-center">
         <h1>Halaman Berita</h1>
-        <p>Berisi mengenai informasi terbaru mengenai lingkungan <br /> 
+        <p>Berisi mengenai informasi atau berita terbaru mengenai lingkungan <br /> 
             Contains the latest information about the environment </p>
       </div>
     </section>
