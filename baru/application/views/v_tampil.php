@@ -12,7 +12,7 @@
 <body>
 
 <div class="container">
-  <center>Data Sampah</center>
+  <center>Data Sampah </center>
   <center><?php echo anchor('crud/tambah','Tambah Data'); ?></center> 
   <a href="<?php echo base_url('login/logout'); ?>">Logout</a>           
   <table class="table table-bordered">
@@ -22,7 +22,7 @@
         <th>Nama Sampah</th>
         <th>Banyaknya (Ton)</th>
         <th>Lokasi</th>
-		<th>Handphone</th>
+		<th>Nomer Handphone</th>
       </tr>
     </thead>
     <tbody>
