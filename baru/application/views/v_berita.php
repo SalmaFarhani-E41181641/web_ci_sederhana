@@ -21,7 +21,7 @@
                     />
                   </div>
                   <div class="amenities-details">
-                  <h3>Ilmuwan Kembangkan Gelas Plastik dari Kulit Kepiting, Seperti Apa?</h3><br>
+                  <h3>Ilmuwan Kembangkan sebuah Gelas Plastik yang terbuat dari Kulit Kepiting, Seperti Apa?</h3><br>
                      <h5> Gita Laras Widyaningrum - Rabu, 19 Februari 2020 | 15:40 WIB</h5>
                   <p>Nationalgeographic.co.id - Sekelompok ilmuwan di Kanada telah mengembangkan rencana untuk mengubah spesies invasif yang dikenal dengan nama kepiting 'supervillain' menjadi gelas dan alat makan yang dapat menggantikan plastik. <br>
                     Peneliti akan menggunakan kulit mereka untuk membuat material yang kuat tapi biodegradable. <br>
